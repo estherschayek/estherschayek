@@ -1,7 +1,5 @@
 
-Here’s a GitHub profile README tailored for your professional background and skills:
-
-👩‍💻 Esther Schayek
+**👩‍💻 Esther Schayek**
 Full Stack Developer | Enthusiastic Problem Solver | Lifelong Learner
 
 📫 Contact Me
@@ -10,6 +8,7 @@ Tel: 0533198825
 Email: es0533198825@gmail.com
 
 🌟 About Me
+
 Hi! I'm Esther Schayek, an enthusiastic Full Stack Developer with a passion for building innovative and efficient software solutions. My hands-on experience spans both frontend and backend technologies, with a focus on creating seamless user experiences and scalable architectures.
 
 Currently, I'm developing mobile and web solutions at Duvdevan Software, where I collaborate on cutting-edge projects using ReactJS, Node.js, and PostgreSQL in a CI/CD environment.
@@ -17,6 +16,7 @@ Currently, I'm developing mobile and web solutions at Duvdevan Software, where I
 I'm always curious to explore new technologies, solve challenging problems, and contribute to impactful projects.
 
 💻 Technical Skills
+
 Frontend
 React, Angular17, TypeScript
 HTML5, CSS3, JavaScript
@@ -28,6 +28,7 @@ DevOps & Tools
 Docker, GitHub, Lint, CI/CD pipelines, AntDesign, reveal.js
 
 📚 Education
+
 Software Developer
 Bachir - The Institute for Technological Training (MAHAT)
 
@@ -38,11 +39,13 @@ University Lille 3, France
 2009-2012 | Bachelor's Degree in Languages and Education
 
 🌐 Languages
+
 Hebrew: Native
 English: Near-native
 French: Native
 
 🚀 Projects
+
 Here are some of the selected projects I've worked on:
 
 Customer Shopping Management System
