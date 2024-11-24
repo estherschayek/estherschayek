@@ -56,18 +56,18 @@ Technologies: Python
 
 *Recipe Sharing Website*
 Technologies: React Hooks, Node.js
-[Link Text](https://estherschayek.github.io/Recipe_project/)
+[View website](https://estherschayek.github.io/Recipe_project/)
 
 *Online Course Marketing Website*
 Technologies: JavaScript, HTML, CSS
-[Link Text](https://estherschayek.github.io/Courses-platform-project/)
+[View website](https://estherschayek.github.io/Courses-platform-project/)
 
 *Tiny Link Project*
 Technologies: Node.js, MongoDB
 
 *Shift Management System for Nurses*
 Technologies: Angular
-[Link Text](URL)
+[View website](URL)
 
 *Employee List Management System*
 Technologies: .NET Core, EF Core, SQL Server
