@@ -56,11 +56,11 @@ Technologies: Python
 
 *Recipe Sharing Website*
 Technologies: React Hooks, Node.js
-[Link Text](URL)
+[Link Text](https://estherschayek.github.io/Recipe_project/)
 
 *Online Course Marketing Website*
 Technologies: JavaScript, HTML, CSS
-[Link Text](URL)
+[Link Text](https://estherschayek.github.io/Courses-platform-project/)
 
 *Tiny Link Project*
 Technologies: Node.js, MongoDB
