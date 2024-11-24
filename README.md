@@ -48,27 +48,28 @@ French: Native
 
 Here are some of the selected projects I've worked on:
 
-Customer Shopping Management System
+*Customer Shopping Management System*
 Technologies: Spring Boot, MySQL
 
-Family Management System
+*Family Management System*
 Technologies: Python
 
-Recipe Sharing Website
+*Recipe Sharing Website*
 Technologies: React Hooks, Node.js
-View Website
+[Link Text](URL)
 
-Online Course Marketing Website
+*Online Course Marketing Website*
 Technologies: JavaScript, HTML, CSS
-View Website
+[Link Text](URL)
 
-Tiny Link Project
+*Tiny Link Project*
 Technologies: Node.js, MongoDB
 
-Shift Management System for Nurses
+*Shift Management System for Nurses*
 Technologies: Angular
+[Link Text](URL)
 
-Employee List Management System
+*Employee List Management System*
 Technologies: .NET Core, EF Core, SQL Server
 
 All my projects received top grades (100) and were showcased as exemplary work for other students.
