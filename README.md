@@ -26,7 +26,8 @@ Node.js, C#, Python, .NET Core, Java (Spring Boot)
 
 **Databases**
 PostgreSQL, MySQL, MongoDB, SQL Server
-DevOps & Tools
+
+**DevOps & Tools**
 Docker, GitHub, Lint, CI/CD pipelines, AntDesign, reveal.js
 
 ## 📚 Education
