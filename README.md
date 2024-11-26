@@ -1,5 +1,5 @@
 
-### 👩‍💻 Esther Schayek
+# 👩‍💻 Esther Schayek
 Full Stack Developer | Enthusiastic Problem Solver | Lifelong Learner
 
 ## 📫 Contact Me
