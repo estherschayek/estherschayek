@@ -17,12 +17,14 @@ I'm always curious to explore new technologies, solve challenging problems, and 
 
 **💻 Technical Skills**
 
-Frontend
+**Frontend**
 React, Angular17, TypeScript
 HTML5, CSS3, JavaScript
-Backend
+
+**Backend**
 Node.js, C#, Python, .NET Core, Java (Spring Boot)
-Databases
+
+**Databases**
 PostgreSQL, MySQL, MongoDB, SQL Server
 DevOps & Tools
 Docker, GitHub, Lint, CI/CD pipelines, AntDesign, reveal.js
@@ -41,35 +43,37 @@ University Lille 3, France
 **🌐 Languages**
 
 Hebrew: Native
+
 English: Near-native
+
 French: Native
 
 **🚀 Projects**
 
 Here are some of the selected projects I've worked on:
 
-*Customer Shopping Management System*
+**Customer Shopping Management System**
 Technologies: Spring Boot, MySQL
 
-*Family Management System*
+**Family Management System**
 Technologies: Python
 
-*Recipe Sharing Website*
+**Recipe Sharing Website**
 Technologies: React Hooks, Node.js
 [View website](https://estherschayek.github.io/Recipe_project/)
 
-*Online Course Marketing Website*
+**Online Course Marketing Website**
 Technologies: JavaScript, HTML, CSS
 [View website](https://estherschayek.github.io/Courses-platform-project/)
 
-*Tiny Link Project*
+**Tiny Link Project**
 Technologies: Node.js, MongoDB
 
-*Shift Management System for Nurses*
+**Shift Management System for Nurses**
 Technologies: Angular
 [View website](URL)
 
-*Employee List Management System*
+**Employee List Management System**
 Technologies: .NET Core, EF Core, SQL Server
 
 All my projects received top grades (100) and were showcased as exemplary work for other students.
@@ -77,6 +81,7 @@ All my projects received top grades (100) and were showcased as exemplary work f
 **🌟 Work Experience**
 
 **Full Stack Developer**
+
 Duvdevan Software
 
 Built mobile-optimized applications using ReactJS, Node.js, and FastAPI.
@@ -85,8 +90,11 @@ Led code reviews, unit testing, and ensured high-quality deliverables.
 Collaborated in an Agile team environment, contributing to scalable API development.
 
 **Educator**
+
 2016-2024: Homeroom teacher for 12th grades, Israel.
+
 2013-2014: Subject teacher, England.
+
 2011-2012: Homeroom teacher, France.
 
 **🌟 Let's Connect!**
