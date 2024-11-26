@@ -1,13 +1,13 @@
 
-###👩‍💻 Esther Schayek
+### 👩‍💻 Esther Schayek
 Full Stack Developer | Enthusiastic Problem Solver | Lifelong Learner
 
-##📫 Contact Me
+## 📫 Contact Me
 
 Tel: 0533198825
 Email: es0533198825@gmail.com
 
-##🌟 About Me
+## 🌟 About Me
 
 Hi! I'm Esther Schayek, an enthusiastic Full Stack Developer with a passion for building innovative and efficient software solutions. My hands-on experience spans both frontend and backend technologies, with a focus on creating seamless user experiences and scalable architectures.
 
@@ -15,7 +15,7 @@ Currently, I'm developing mobile and web solutions at Duvdevan Software, where I
 
 I'm always curious to explore new technologies, solve challenging problems, and contribute to impactful projects.
 
-##💻 Technical Skills
+## 💻 Technical Skills
 
 **Frontend**
 React, Angular17, TypeScript
@@ -29,7 +29,7 @@ PostgreSQL, MySQL, MongoDB, SQL Server
 DevOps & Tools
 Docker, GitHub, Lint, CI/CD pipelines, AntDesign, reveal.js
 
-##📚 Education
+## 📚 Education
 
 **Software Developer**
 *Bachir - The Institute for Technological Training (MAHAT)*
@@ -41,7 +41,7 @@ Docker, GitHub, Lint, CI/CD pipelines, AntDesign, reveal.js
 
 2009-2012 | Bachelor's Degree in Languages and Education
 
-##🌐 Languages
+## 🌐 Languages
 
 Hebrew: Native
 
@@ -49,7 +49,7 @@ English: Near-native
 
 French: Native
 
-##🚀 Projects
+## 🚀 Projects
 
 Here are some of the selected projects I've worked on:
 
@@ -83,7 +83,7 @@ Technologies:revealJS
 
 All my projects received top grades (100) and were showcased as exemplary work for other students.
 
-##🌟 Work Experience
+## 🌟 Work Experience
 
 **Full Stack Developer**
 
@@ -102,5 +102,5 @@ Collaborated in an Agile team environment, contributing to scalable API developm
 
 2011-2012: Homeroom teacher, France.
 
-##🌟 Let's Connect!
+## 🌟 Let's Connect!
 Feel free to explore my repositories to see more of my work, or contact me directly for collaboration opportunities.
