@@ -31,12 +31,13 @@ Docker, GitHub, Lint, CI/CD pipelines, AntDesign, reveal.js
 
 **📚 Education**
 
-Software Developer
-Bachir - The Institute for Technological Training (MAHAT)
+**Software Developer**
+*Bachir - The Institute for Technological Training (MAHAT)*
 
 2022-2024 | Diploma in Software Engineering
-Educator
-University Lille 3, France
+
+**Educator**
+*University Lille 3, France*
 
 2009-2012 | Bachelor's Degree in Languages and Education
 
