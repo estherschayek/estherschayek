@@ -77,6 +77,10 @@ Technologies: Angular
 **Employee List Management System**
 Technologies: .NET Core, EF Core, SQL Server
 
+**Git commands presentation**
+Technologies:revealJS
+[View website]( https://estherschayek.github.io/GitCommandsPresentation/)
+
 All my projects received top grades (100) and were showcased as exemplary work for other students.
 
 **🌟 Work Experience**
