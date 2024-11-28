@@ -13,6 +13,8 @@ Hi! I'm Esther Schayek, an enthusiastic Full Stack Developer with a passion for 
 
 Currently, I'm developing mobile and web solutions at Duvdevan Software, where I collaborate on cutting-edge projects using ReactJS, Node.js, and PostgreSQL in a CI/CD environment.
 
+In addition to my development work, I teach programming and technology-related topics at Bachir - The Institute for Technological Training, helping students build skills for their careers in tech.
+
 I'm always curious to explore new technologies, solve challenging problems, and contribute to impactful projects.
 
 ## 💻 Technical Skills
@@ -46,7 +48,7 @@ Docker, GitHub, Lint, CI/CD pipelines, AntDesign, reveal.js
 
 Hebrew: Native
 
-English: Near-native
+English: Native
 
 French: Native
 
