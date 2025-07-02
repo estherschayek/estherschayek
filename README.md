@@ -5,15 +5,15 @@ Full Stack Developer | Enthusiastic Problem Solver | Lifelong Learner
 ## 📫 Contact Me
 
 Tel: 0533198825
-Email: es0533198825@gmail.com
+Email: eteacher744@gmail.com
 
 ## 🌟 About Me
 
 Hi! I'm Esther Schayek, an enthusiastic Full Stack Developer with a passion for building innovative and efficient software solutions. My hands-on experience spans both frontend and backend technologies, with a focus on creating seamless user experiences and scalable architectures.
 
-Currently, I'm developing mobile and web solutions at Duvdevan Software, where I collaborate on cutting-edge projects using ReactJS, Node.js, and PostgreSQL in a CI/CD environment.
+I have experience in developing mobile and web solutions at Byton, where I collaborated on cutting-edge projects using ReactJS, Node.js, and PostgreSQL in a CI/CD environment.
 
-In addition to my development work, I teach programming and technology-related topics at Bachir - The Institute for Technological Training, helping students build skills for their careers in tech.
+In addition to my development work, I teach programming and technology-related topics at multiple colleges -  helping students build skills for their careers in tech.
 
 I'm always curious to explore new technologies, solve challenging problems, and contribute to impactful projects.
 
@@ -90,7 +90,7 @@ All my projects received top grades (100) and were showcased as exemplary work f
 
 **Full Stack Developer**
 
-Duvdevan Software
+Byton
 
 Built mobile-optimized applications using ReactJS, Node.js, and FastAPI.
 Managed PostgreSQL databases and implemented CI/CD workflows.
