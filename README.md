@@ -37,7 +37,7 @@ Linux, Windows, Hostinger, GoDaddy, VPS management
 ## 🌟 Work Experience
 
 **Team Lead & Full Stack Developer**
-Ientec | 2025 – Present
+Intech | 2025 – Present
 
 Leading a team of ~10 developers in building a full AI-based web system.
 
