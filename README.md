@@ -34,40 +34,6 @@ Docker, GitHub, CI/CD pipelines, Lint, Twilio, Weaviate, Reveal.jsת LLMs
 Linux, Windows, Hostinger, GoDaddy, VPS management
 
 
-## 🚀 Projects
-
-Here are some of the selected projects I've worked on:
-
-**Customer Shopping Management System**
-Technologies: Spring Boot, MySQL
-
-**Family Management System**
-Technologies: Python
-
-**Recipe Sharing Website**
-Technologies: React Hooks, Node.js
-[View website](https://estherschayek.github.io/Recipe_project/)
-
-**Online Course Marketing Website**
-Technologies: JavaScript, HTML, CSS
-[View website](https://estherschayek.github.io/Courses-platform-project/)
-
-**Tiny Link Project**
-Technologies: Node.js, MongoDB
-
-**Shift Management System for Nurses**
-Technologies: Angular
-[View website](URL)
-
-**Employee List Management System**
-Technologies: .NET Core, EF Core, SQL Server
-
-**Git commands presentation**
-Technologies:revealJS
-[View website]( https://estherschayek.github.io/GitCommandsPresentation/)
-
-All my projects received top grades (100) and were showcased as exemplary work for other students.
-
 ## 🌟 Work Experience
 
 **Team Lead & Full Stack Developer**
@@ -101,6 +67,42 @@ Collaborated in an Agile team environment, contributing to scalable API developm
 France, England, Israel | 2011 – 2024
 
 Homeroom and subject teacher across multiple countries and age groups.
+
+## 🚀 Projects
+
+Here are some of the selected projects I've worked on:
+**AI-Powered Web System** 
+Full-stack design and development of an AI-based platform, including backend, frontend, and deployment in Dockerized environments.
+
+**Customer Shopping Management System**
+Technologies: Spring Boot, MySQL
+
+**Family Management System**
+Technologies: Python
+
+**Recipe Sharing Website**
+Technologies: React Hooks, Node.js
+[View website](https://estherschayek.github.io/Recipe_project/)
+
+**Online Course Marketing Website**
+Technologies: JavaScript, HTML, CSS
+[View website](https://estherschayek.github.io/Courses-platform-project/)
+
+**Tiny Link Project**
+Technologies: Node.js, MongoDB
+
+**Shift Management System for Nurses**
+Technologies: Angular
+[View website](URL)
+
+**Employee List Management System**
+Technologies: .NET Core, EF Core, SQL Server
+
+**Git commands presentation**
+Technologies:revealJS
+[View website]( https://estherschayek.github.io/GitCommandsPresentation/)
+
+All my projects received top grades (100) and were showcased as exemplary work for other students.
 
 ## 🎓 Education
 
