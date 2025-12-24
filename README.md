@@ -59,6 +59,7 @@ Byton | 2024 – 2025
 
 **Educator (Earlier Career)**
 France, England, Israel | 2011 – 2024
+
 • Teaching and educational roles across multiple countries and age groups 
 
 ## 🚀 Projects
