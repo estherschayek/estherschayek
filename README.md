@@ -1,19 +1,22 @@
 
 # 👩‍💻 Esther Schayek
-Full Stack Developer | Development Team Lead | Enthusiastic Problem Solver | Lifelong Learner
+Full Stack Developer | Enthusiastic Problem Solver | Lifelong Learner
 
 ## 📫 Contact Me
 
 Tel: 0533198825
-Email: eteacher744@gmail.com
+Email: estherschayek@gmail.com
 
 ## 🌟 About Me
 
-I’m Esther Schayek, a Full Stack Developer and Development Team Lead with proven experience in building end-to-end AI-driven and web-based solutions.I’ve led teams of up to 10 developers, while staying hands-on with technologies like React, Node.js, MongoDB, PostgreSQL, and Docker.
+I’m Esther Schayek, a Full Stack Developer with hands-on experience building end-to-end AI-driven and web-based systems.
 
-I combine strong technical expertise with leadership skills—managing deployments, code reviews, testing, and CI/CD pipelines. My focus is on delivering scalable, reliable, and user-friendly software while fostering teamwork and innovation.
+I work across the full development lifecycle, from system design and implementation to testing, deployment, and CI/CD. My technical expertise includes React, Node.js, MongoDB, PostgreSQL, Docker, and modern backend architectures such as Microservices and APIs.
 
-Alongside development, I also lecture in software engineering and mentor students in modern web technologies, helping shape the next generation of developers.
+I have strong ownership over production systems, including server environments, deployments, code reviews, and quality processes. I enjoy solving complex problems, building scalable solutions, and working in fast-paced startup environments.
+
+Alongside development, I lecture and mentor in software engineering and modern web technologies.
+
 
 ## 💻 Technical Skills
 
@@ -36,37 +39,27 @@ Linux, Windows, Hostinger, GoDaddy, VPS management
 
 ## 🌟 Work Experience
 
-**Team Lead & Full Stack Developer**
-Intech | 2025 – Present
+**Senior Full Stack Developer**  
+Intech (Startup) | 2025 – Present  
+• Building end-to-end AI-driven web systems  
+• React, Node.js, MongoDB, Docker  
+• APIs, Microservices, LLM integrations  
+• Deployments, VPS, CI/CD, code reviews  
 
-Leading a team of ~10 developers in building a full AI-based web system.
+**Full Stack Developer**  
+Byton | 2024 – 2025  
+• React, Node.js, FastAPI, PostgreSQL  
+• Mobile-friendly UI development  
+• CI/CD, unit testing, GitHub collaboration  
 
-Full responsibility for server deployments, QA, code reviews, and CI/CD workflows.
-
-Hands-on coding with Node.js, React, MongoDB, and Docker.
-
-Agile methodology: task delegation, sprint planning, and progress tracking.
-
-**Lecturer in Programming**
-Various Colleges | Present
-
-Teaching and tutoring in multiple technologies: C#.NET, React, Angular, Node.js, SQL, MongoDB.
-
-Mentored students in practical projects and industry best practices.
-
-**Full Stack Developer**
-
-Byton | 2024 – 2025
-
-Built mobile-optimized applications using ReactJS, Node.js, and FastAPI.
-Managed PostgreSQL databases and implemented CI/CD workflows.
-Led code reviews, unit testing, and ensured high-quality deliverables.
-Collaborated in an Agile team environment, contributing to scalable API development.
+**Lecturer & Mentor (Part-time)**  
+2024 – Present  
+• Teaching modern web and backend technologies  
+• Mentoring students on real-world projects  
 
 **Educator (Earlier Career)**
 France, England, Israel | 2011 – 2024
-
-Homeroom and subject teacher across multiple countries and age groups.
+• Teaching and educational roles across multiple countries and age groups 
 
 ## 🚀 Projects
 
